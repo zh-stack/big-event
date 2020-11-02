@@ -13,6 +13,8 @@ $(function(){
             layer.close(index);
         })
     })
+
+    
 })
 //获取用户信息发起的ajax
 function getUserInfo(){
